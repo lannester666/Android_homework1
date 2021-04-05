@@ -1,0 +1,2 @@
+# Android_homework1
+北京邮电大学移动终端课程第一次作业，包括recyclerView的基本使用
